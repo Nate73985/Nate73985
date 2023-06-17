@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel
-- 👀 I’m interested in data science / business analytics.
-- 🌱 I’m currently learning python, tableau, alteryx.
+- 👀 I’m interested in data science / data engineering.
+- 🌱 I’m currently learning advanced visualization techniques.
 - 💞️ I’m looking to collaborate on projects, research, new ideas and innovations.
 - 📫 How to reach me +1 602 451 8954.
 <!---
