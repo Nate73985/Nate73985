@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nathaniel
-- 👀 I’m interested in data science / data engineering.
-- 🌱 I’m currently learning advanced visualization techniques.
+- 👋 Hi, I’m Nate
+- 👀 I’m interested in emerging technology.
+- 🌱 I’m currently learning Networking and System Administration at Phoenix College.
 - 💞️ I’m looking to collaborate on projects, research, new ideas and innovations.
 - 📫 How to reach me +1 602 451 8954.
 <!---
